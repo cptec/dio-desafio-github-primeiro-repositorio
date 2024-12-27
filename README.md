@@ -1,2 +1,2 @@
-# dio-desafio-github-primeiro-repositorio
-Repositório Criado para Desafio de Projeto sobre GitHub
+# dio-desafio-banco-de-dados-Universidade
+Repositório Criado para Desafio de Projeto MySQL
